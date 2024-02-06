@@ -1,0 +1,1 @@
+### Girilen sayilarin okunusunu yazdiran bir program
